@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "OPLA-Tool"
+title                    : "SBSE"
 title_separator          : "-"
-name                     : &name "OPLA-Tool"
-description              : &description "Optimization for PLA - Tool"
-url                      : https://opla-tool-uem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "SBSE"
+description              : &description "Search-based Software Engeneering"
+url                      : https://sbse-uem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "OPLA-Tool-UEM/opla-tool-uem.github.io"
+repository               : "SBSE-UEM/sbse-uem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "OPLA-Tool-UEM"
+  name             : "SBSE-UEM"
   avatar           : "uem-logo.gif"
-  bio              : "Optimization for PLA Tool"
+  bio              : "Search-base Software Engeneering"
   location         : "Universidade Estadual de Maringá"
   employer         : "Thelma Elita Colanzi Lopes"
   googlescholar    : 
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "OPLA-Tool-UEM"
+  github           : "SBSE-UEM"
   google_plus      :
   keybase          :
   instagram        :
