@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "SBSE / Search-based Software Engineering"
+title                    : "SBSE-UEM"
 title_separator          : "-"
 name                     : &name "SBSE"
 description              : &description "Search-based Software Engineering"
@@ -82,7 +82,7 @@ author:
   avatar           : "uem-logo.gif"
   bio              : "Search-based Software Engineering"
   location         : "Universidade Estadual de Maringá"
-  employer         : "Thelma Elita Colanzi Lopes"
+  employer         : 
   googlescholar    : 
   email            :
   uri              :
