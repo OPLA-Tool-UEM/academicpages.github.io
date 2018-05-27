@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "SBSE-UEM - Search-based Software Engineering Group of State of Maringá University"
+title: "SBSE-UEM - Search-based Software Engineering"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Grupo de pesquisa da Universidade Estadual de Maringá atuanate na área de Engenhria de Software Baseada em Busca.
+Grupo de pesquisas da Universidade Estadual de Maringá atuante na área de Engenhria de Software Baseada em Busca.
 
