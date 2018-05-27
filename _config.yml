@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "SBSE"
+title                    : "SBSE / Search-based Software Engineering"
 title_separator          : "-"
 name                     : &name "SBSE"
 description              : &description "Search-based Software Engineering"
