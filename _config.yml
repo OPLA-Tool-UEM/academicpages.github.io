@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "SBSE-UEM"
   avatar           : "uem-logo.gif"
-  bio              : "Search-base Software Engeneering"
+  bio              : "Search-based Software Engeneering"
   location         : "Universidade Estadual de Maringá"
   employer         : "Thelma Elita Colanzi Lopes"
   googlescholar    : 
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
