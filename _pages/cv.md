@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Researchers"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Thelma Elita Colanzi
-======
-## Education
+## Thelma Elita Colanzi
+
+### Education
 ======
 * B.S. em Tecnológo Em Processamento de Dados, Universidade Estadual de Maringá - UEM, 1996
 * M.S. em Ciências da Computação e Matemática Computacional, Universidade de São Paulo - USP, 1999
@@ -19,9 +19,9 @@ redirect_from:
 
 
 
-# Aline Maria Malachini Miotto Amaral 
-======
-## Education
+## Aline Maria Malachini Miotto Amaral 
+
+### Education
 ======
 * B.S. em Ciência da Computação, Universidade Estadual de Maringá - UEM, 1996
 * M.S. em Ciências da Computação, Universidade de São Paulo - USP, 2001
