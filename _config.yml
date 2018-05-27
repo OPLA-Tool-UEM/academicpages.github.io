@@ -10,7 +10,7 @@ locale                   : "pt-BR"
 title                    : "SBSE"
 title_separator          : "-"
 name                     : &name "SBSE"
-description              : &description "Search-based Software Engeneering"
+description              : &description "Search-based Software Engineering"
 url                      : https://sbse-uem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SBSE-UEM/sbse-uem.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "SBSE-UEM"
   avatar           : "uem-logo.gif"
-  bio              : "Search-based Software Engeneering"
+  bio              : "Search-based Software Engineering"
   location         : "Universidade Estadual de Maringá"
   employer         : "Thelma Elita Colanzi Lopes"
   googlescholar    : 

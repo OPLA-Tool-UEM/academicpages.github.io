@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Guia de Instalação"
+title: "Guia de Instalação - OPLA-Tool"
 author_profile: true
 redirect_from: 
   - /md/
