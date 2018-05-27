@@ -30,7 +30,7 @@ redirect_from:
 
 ## Repositório do GIT
 
-Organização - [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-UEM)
+Organização - [https://github.com/SBSE-UEM](https://github.com/SBSE-UEM)
 
 * Time de Desenvolvimento
   * **Fernando S. Godóy**
@@ -38,11 +38,11 @@ Organização - [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-
   * **Pedro Barbiero**
 
 * Versão 2.0
-  * Repositório: [https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0](https://github.com/OPLA-Tool-UEM/opla-tool-choma-version2.0)
+  * Repositório: [https://github.com/SBSE-UEM/opla-tool-choma-version2.0](https://github.com/SBSE-UEM/opla-tool-choma-version2.0)
   * Responsável: **João Choma**
 
 * Versão em Desenvolvimento: 
-  * Repositório: [https://github.com/OPLA-Tool-UEM/OPLA-Tool](https://github.com/OPLA-Tool-UEM/OPLA-Tool)
+  * Repositório: [https://github.com/SBSE-UEM/OPLA-Tool](https://github.com/SBSE-UEM/OPLA-Tool)
   * Responsável: **Fernando Godóy**
   * Branchs:
     * Master: Versão 1.0 
@@ -68,7 +68,7 @@ Organização - [https://github.com/OPLA-Tool-UEM](https://github.com/OPLA-Tool-
 
 Clonar repositório: 
   ``` 
-   git clone https://github.com/OPLA-Tool-UEM/OPLA-Tool
+   git clone https://github.com/SBSE-UEM/OPLA-Tool
   ```
 
 Criar branch local
@@ -100,7 +100,7 @@ Criar Pull Request para branch develop
 
 Clonar do repositório: 
   ``` 
-   git clone https://github.com/OPLA-Tool-UEM/OPLA-Tool
+   git clone https://github.com/SBSE-UEM/OPLA-Tool
   ```
 
 Instalar dependências:
