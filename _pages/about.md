@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Grupo de pesquisas da Universidade Estadual de Maringá atuante na área de Engenhria de Software Baseada em Busca.
+Grupo de pesquisas da Universidade Estadual de Maringá atuante na área de Engenharia de Software Baseada em Busca.
 
